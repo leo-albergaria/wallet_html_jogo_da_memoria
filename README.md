@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/146778702-6ce93a9c-b91f-43d2-b787-77a95aed452f.png" align="left" height="150px" width="150px">
+    <h1># Desenvolvendo um jogo da memória</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Neste projeto, o desafio será criar um jogo da memória utilizando apenas HTML, CSS e Javascript. Com poucas linhas de código, aprenderemos juntos a trabalhar com efeitos 3D no CSS e lógica de programação utilizando condicionais, immediately invoked function expression e manipulação de array em um projeto super divertido.
     </p>
 </p>      
 
